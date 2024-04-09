@@ -131,7 +131,7 @@
 130;r [Radio]wecker, ~;ébresztőóra;e Terasse, n;terasz;s Babyphon, e;bébimonitor;eine gute Qualität haben;jó minőséggel rendelkezni;;;;;;;;;;
 131;r Akku, s;akkumulátor;e Brücke, n;híd;s Babybett, en;gyerekágy;schwitzen;izzadni;;;;;;;;;;
 132;r Kredit, e;hitel;e Bank, ¨-e;pad;s Bargeld, er;készpénz;zelten;sátorozni;;;;;;;;;;
-133;r Zug, ¨-e;vonat;e Sehenswürdigkeit, en;látnivaló;;;packen;csomagolni;;;;;;;;;;
+133;r Zug, ¨-e;vonat;e Sehenswürdigkeit, en;látnivaló;s Haustier, e;háziállat;packen;csomagolni;;;;;;;;;;
 134;r Ball, ¨-e;labda;e Kettenbrücke;Lánchíd;;;einpacken;becsomagolni;;;;;;;;;;
 135;r Großvater, ¨- / r Opa, s;nagyapa;e Akademie, n;akadémia;;;mitnehmen;magával vinni;;;;;;;;;;
 136;r Mensch, en;ember;e Ermäßigung, en;kedvezmény;;;einschlafen;elaludni;;;;;;;;;;
@@ -183,7 +183,7 @@
 182;r/s Safe, s;széf;e Dusche, n;zuhany;;;;;;;;;;;;;;
 183;r Familienurlaub, e;családi nyaralás;e Waschküche, n;mosókonyha;;;;;;;;;;;;;;
 184;r Kinderhochstuhl, ¨-e;gyermek etetőszék;e Salzslange, n;sós perec;;;;;;;;;;;;;;
-185;r Haustier, e;háziállat;e Einrechtung, en;berendezés ;;;;;;;;;;;;;;
+185;;;e Einrechtung, en;berendezés ;;;;;;;;;;;;;;
 186;;;e Mikrowelle, n;mikró ;;;;;;;;;;;;;;
 187;;;e Waschmaschine, n;mosógép ;;;;;;;;;;;;;;
 188;;;e Rezeption, en;recepció ;;;;;;;;;;;;;;
