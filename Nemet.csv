@@ -89,10 +89,10 @@
 88;r Fluss, ¨-e;folyó;e/s E-Mail, s;e-mail;s Kleid, er;ruha;spazieren;sétálni;gelegen;található / fekvő (hely);nie;soha;;;;;zu Abend essen;vacsorázni
 89;r Schnee;hó;e Gruppe, n;csoport;s Interview, s;interjú;spazieren gehen;sétálni menni;lecker;édes;wenigstens;legalább/legkevesebb;;;;;pulsieren;lüktetni / pulzálni
 90;r Winter, ~;tél;e Lehrerin, nen;tanárnő;s Kleidungsstück, e;ruha nemű;auf der Bank sitzen;a padon ülni;möglich;lehetséges;manchmal;néha;;;;;besorgen;beszerezni
-91;r Frühling;tavasz;e Mathematik;matematika;s Lieblingskleidungsstück, e;kedvenc ruhadarab;kosten;kerülni (pénzbe/időbe);;;dazu;ahhoz;;;;;laden;hívogatni
-92;r Sommer;nyár;e Party, s;buli;s Semester, ~;félév;simsen;SMS-ezni;;;einige;néhány;;;;;akzeptieren;elfogadni
-93;r Herbst;ősz;e Schwester, n;lánytestvér;s Projekt, e;projekt;im Internet surfen;internetezni;;;einige Klamotten;néhány ruha;;;;;werden;valamilyenné válni
-94;r Monat;hónap;e/r Single, s;egyedülálló nő/férfi;s Badezimmer, ~;fürdőszoba;auf Kredit kaufen;hitelre vásárolni;;;ohne + A;vki/vmi nélkül;;;;;fahren;utazni (rövid/hosszú távú)
+91;r Frühling;tavasz;e Mathematik;matematika;s Lieblingskleidungsstück, e;kedvenc ruhadarab;kosten;kerülni (pénzbe/időbe);fleißig;szorgalmas;dazu;ahhoz;;;;;laden;hívogatni
+92;r Sommer;nyár;e Party, s;buli;s Semester, ~;félév;simsen;SMS-ezni;ruhig;csendes;einige;néhány;;;;;akzeptieren;elfogadni
+93;r Herbst;ősz;e Schwester, n;lánytestvér;s Projekt, e;projekt;im Internet surfen;internetezni;sonnig;napos;einige Klamotten;néhány ruha;;;;;werden;valamilyenné válni
+94;r Monat;hónap;e/r Single, s;egyedülálló nő/férfi;s Badezimmer, ~;fürdőszoba;auf Kredit kaufen;hitelre vásárolni;hungrig;éhes;ohne + A;vki/vmi nélkül;;;;;fahren;utazni (rövid/hosszú távú)
 95;r Schneemann, ¨-er;hóember;e Sprache, n;nyelv;s Taschengeld;zsebpénz;weinen;sírni;;;für + A;vki/vmi -nak/-nek;;;;;reisen;utazni (hosszú távú)
 96;r Wetterbericht, e;időjárás-jelentés;e Stunde, n;óra (60 perc), tanóra;s Duschgel, e;tusfürdő;schinken;küldeni;;;irgendwo;valahol;;;;;Hunger haben;éhséggel rendelkezni
 97;r Bruder, ¨-;fiútestvér;e Tafel, n;tábla;s Beispiel, e;példa;warten;várni;;;eigentlich;tulajdonképpen;;;;;hungrig sein;éhes lenni
@@ -100,109 +100,123 @@
 99;r Stuhl, ¨-e;szék;e Umfrage, n;közvéleménykutatás;s Schachspiel, e;sakk;rechnen;számolni;;;mit + D;vki/vmi -val/-vel;;;;;optimale;optimális / lehető legjobb
 100;r Tisch, e;asztal;e Zeitung, en;újság;s Kissen, ~;párna;Glück haben;szerencsésnek lenni;;;in + D;vki/vmi -ban/-ben;;;;;pulsierend;lüktető / pulzáló
 101;r Zettel, ~;cédula, papírdarab;e Toilette, n;wc;s Taschenmesser, ~;zsebkés / bicska;Besuch haben;"vendéget ""tartani""";;;tagsüber;napközben / egész nap;;;;;wunderbar;csodálatos
-102;r Stadtplan, ¨-e;várostérkép;e Kirche, n;templom;s Lebensmittel, ~;élelmiszer;Humor haben;humorérzékkel rendelkezni;;;wider;megint;;;;;gelegen;található / fekvő (hely)
-103;r Bahnhof, ¨-e;pályaudvar;e Apotheke, n;gyógyszertár;s Fahrrad, ¨-er;bicikli;nehmen;venni;;;nahe;közel;;;;;lecker;finom
-104;r Park, s/e/¨-e;park;e Post, en;posta;s Eck, en;sarok;können;tudni;;;inklusive;beleértve;;;;;möglich;lehetséges
-105;r Herr, n, en;úr;e U-Bahn, en;metró;s Einzelzimmer, ~;egyágyas szoba;funktionieren;működni/funkcionálni;;;ab + D;vki/vmi -tól/-től;;;;;fleißig;szorgalmas
-106;r See, n;tó;e Straßenbahn, en;villamos;s Doppelzimmer, ~;kétágyas szoba;tragen;viselni;;;;;;;;;ruhig;csendes
-107;r Wassersport;vízisport;e Haltestelle, n;megálló;s Billard, e;biliárd;gefallen;tetszeni;;;;;;;;;sonnig;napos
-108;r Badestrand, ¨-e;fürdő strand;e Bank, en;bank;s Billardzimmer, ~;biliárdszalon;mögen;szeretni (nem embert);;;;;;;;;hungrig;éhes
-109;r Tierpark, s;állatkert;e Orientierung, en;tájékozódás;s Bett, en;ágy;probieren;próbálkozni;;;;;;;;;;
-110;r Gellértberg;Gellért-hegy;e Nähe;közelség;s Zimmermädchen, ~;szobalány;helfen;segíteni;;;;;;;;;;
-111;r Heldenplatz;Hősök tere;e Rechnung, en;számla;s Komma, s;vessző;sehen;látni;;;;;;;;;;
-112;r Wald, ¨-er;erdő;e Margareteninsel;Margit-sziget;s Mittlermeer;Földközi-tenger;passen;illeni;;;;;;;;;;
-113;r Bodensee;Boden-tó;e Fischerbastei;Halászbástya;s Schwarzes Meer;Fekete-tenger;geben;adni;;;;;;;;;;
-114;r Besucher, ~;látogató;e Basilika;Bazilika;s Frühstück, e;reggeli;unterrichten;tanítani;;;;;;;;;;
-115;r Höhepunkt, e;csúcspont;e Landstraße, n;országút;s Mittagessen, ~;ebéd;einen Sprachkurs machen;egy nyelvtanfolyamon részt venni;;;;;;;;;;
-116;r Wintersport;télisport;e Firma, Firmen;vállalat;s Abendessen, ~;vacsora;sprechen;beszélni;;;;;;;;;;
-117;r Karneval, s(/e);karnevál;e Möglichkeit, en;lehetőség;s Hektar, e;hektár;eine gute Arbeit finden;egy jó munkát találni;;;;;;;;;;
-118;r Quadratkilometer, ~;négyzetkilométer;e Muttersprache, n;anyanyelv;s Grün, s;zöld;importieren;importálni;;;;;;;;;;
-119;r Leuchtturm, ¨-e;világítótorony;e Fremdsprache, n;idegen nyelv;s Ende, n;vég;möchten;szeretni (feltételes mód);;;;;;;;;;
-120;r Flughafen, ¨-;repülőtér;e Mitte, n;közép;s Problem, e;probléma;wollen;akarni;;;;;;;;;;
-121;r Ungar, n;magyar férfi;e Reformation, en;reformáció;s Steak, s;szték;bekommen;kapni;;;;;;;;;;
-122;r Wettbewerb, e;verseny;e Woche, n;hét;s Kabel-TV, s;kábeltelevízió ;telefonieren;telefonálni;;;;;;;;;;
-123;r Burg, en;vár;e Börse, n;tőzsde/pénztárca;r/s Safe, s;széf;kennen;ismerni;;;;;;;;;;
-124;r Nebel;köd;e Buchmesse, n;könyvvásár;s Dampfbad, e;gőrfürdő;reichen;nyújtani / elég lenni;;;;;;;;;;
-125;r Preis, e;ár;e Dynamik, en;dinamika;s Solarium, Solarien;szolárium;sparen;spórolni / megtakarítani;;;;;;;;;;
-126;r Fernseher, ~;TV;e Ungarin, nen;magyar nő;s Trinken;ital;babysitten;babyszittelni;;;;;;;;;;
-127;r Kopfhörer, ~;fejhallgató;e Ungarn;magyarok;s Parken;parkoló / parkolás;arbeiten / jobben;dolgozni;;;;;;;;;;
-128;r Monitor, e/en;kijelző;e Küste, n;sziklás tengerpart;s Lunchpaket, e;ebéd-csomag;meinen;vélni;;;;;;;;;;
-129;r Bildschirm, e;képernyő;e Ostsee;Balti-tenger;s Salatbüfett, s;salátabüfé;brauchen;kelleni / szükségesnek lenni;;;;;;;;;;
-130;r [Radio]wecker, ~;ébresztőóra;e Terasse, n;terasz;s Babyphon, e;bébimonitor;eine gute Qualität haben;jó minőséggel rendelkezni;;;;;;;;;;
-131;r Akku, s;akkumulátor;e Brücke, n;híd;s Babybett, en;gyerekágy;schwitzen;izzadni;;;;;;;;;;
-132;r Kredit, e;hitel;e Bank, ¨-e;pad;s Bargeld, er;készpénz;zelten;sátorozni;;;;;;;;;;
-133;r Zug, ¨-e;vonat;e Sehenswürdigkeit, en;látnivaló;s Haustier, e;háziállat;packen;csomagolni;;;;;;;;;;
-134;r Ball, ¨-e;labda;e Kettenbrücke;Lánchíd;;;einpacken;becsomagolni;;;;;;;;;;
-135;r Großvater, ¨- / r Opa, s;nagyapa;e Akademie, n;akadémia;;;mitnehmen;magával vinni;;;;;;;;;;
-136;r Mensch, en;ember;e Ermäßigung, en;kedvezmény;;;einschlafen;elaludni;;;;;;;;;;
-137;r Camcorder, ~;videókamera;e Hifi-Anlage, n;Hifi torony;;;leihen;kölcsönözni / kölcsönadni;;;;;;;;;;
-138;r Sessel, ~;fotel;e Fotofunktion, en;fotó-funkció;;;frühstücken;reggelizni;;;;;;;;;;
-139;r Balkon, s/e;erkély;e Uhr, en;óra (készülék);;;essen;enni;;;;;;;;;;
-140;r Roboter, ~;robot;e Vergangenheit;múlt;;;schwimmen;úszni;;;;;;;;;;
-141;r Pullover, ~;pulóver;e Zukunft;jövő;;;Beachvolleyball spielen;strandröplabdázni;;;;;;;;;;
-142;r Anzug, ¨-e;öltöny;e Ansichtskarte, n;képeslap;;;kochen;főzni;;;;;;;;;;
-143;r Schuh, e;cipő;e Garantie, n;garancia;;;waschen;mosni;;;;;;;;;;
-144;r Rock, ¨-e;szoknya;e Oma, s / e Großmutter, ¨-;nagyanya;;;die Kleidung waschen;kimosni a ruhákat;;;;;;;;;;
-145;r Hut, ¨-e;kalap;e Vermutung, en;sejtés;;;Billard spielen;biliárdozni;;;;;;;;;;
-146;r Schal, s;sál;e Digitalkamera, s;digitális kamera;;;duschen;zuhanyozni;;;;;;;;;;
-147;r Mantel, ¨-;kabát;e Wohngemeinschaft, en;közös lakás;;;gehören;vki/vmi - hoz tartozni;;;;;;;;;;
-148;r Sprachkurs, e;nyelvtanfolyam;e Wohnzimmertisch, e / e WG, s;nappali asztal;;;mitarbeiten;együtt dolgozni;;;;;;;;;;
-149;r Beruf, e;szakma;e Küche, n;konyha;;;ein Gymnasium besuchen;gimnáziumba járni ;;;;;;;;;;
-150;r Universität, e, en / Uni, s;egyetem;e Mediennutzung;médiahasználat;;;an der Rezeption arbeiten;a recepción dolgozni;;;;;;;;;;
-151;r Wein, e;bor;e Klamotten;ruha cuccok;;;zeigen;mutatni;;;;;;;;;;
-152;r Journalist, en;újságíró;e Modenschau, en;divatbemutató;;;klingeln;csörögni;;;;;;;;;;
+102;r Stadtplan, ¨-e;várostérkép;e Kirche, n;templom;s Fahrrad, ¨-er;bicikli;Humor haben;humorérzékkel rendelkezni;;;wider;megint;;;;;gelegen;található / fekvő (hely)
+103;r Bahnhof, ¨-e;pályaudvar;e Apotheke, n;gyógyszertár;s Eck, en;sarok;nehmen;venni;;;nahe;közel;;;;;lecker;finom
+104;r Park, s/e/¨-e;park;e Post, en;posta;s Einzelzimmer, ~;egyágyas szoba;können;tudni;;;inklusive;beleértve;;;;;möglich;lehetséges
+105;r Herr, n, en;úr;e U-Bahn, en;metró;s Doppelzimmer, ~;kétágyas szoba;funktionieren;működni/funkcionálni;;;ab + D;vki/vmi -tól/-től;;;;;fleißig;szorgalmas
+106;r See, n;tó;e Straßenbahn, en;villamos;s Billard, e;biliárd;tragen;viselni;;;;;;;;;ruhig;csendes
+107;r Wassersport;vízisport;e Haltestelle, n;megálló;s Billardzimmer, ~;biliárdszalon;gefallen;tetszeni;;;;;;;;;sonnig;napos
+108;r Badestrand, ¨-e;fürdő strand;e Bank, en;bank;s Bett, en;ágy;mögen;szeretni (nem embert);;;;;;;;;hungrig;éhes
+109;r Tierpark, s;állatkert;e Orientierung, en;tájékozódás;s Zimmermädchen, ~;szobalány;probieren;próbálkozni;;;;;;;;;r Alkohol, e;alkohol
+110;r Gellértberg;Gellért-hegy;e Nähe;közelség;s Komma, s;vessző;helfen;segíteni;;;;;;;;;r Oberbegriff, e;gyűjtőfogalom
+111;r Heldenplatz;Hősök tere;e Rechnung, en;számla;s Mittlermeer;Földközi-tenger;sehen;látni;;;;;;;;;r/s Ketchup, s;ketchup
+112;r Wald, ¨-er;erdő;e Margareteninsel;Margit-sziget;s Schwarzes Meer;Fekete-tenger;passen;illeni;;;;;;;;;r/s Kilo, ~/s;kiló
+113;r Bodensee;Boden-tó;e Fischerbastei;Halászbástya;s Frühstück, e;reggeli;geben;adni;;;;;;;;;e Pommes (frites);hasábburgonya
+114;r Besucher, ~;látogató;e Basilika;Bazilika;s Mittagessen, ~;ebéd;unterrichten;tanítani;;;;;;;;;e Mayonnaise, n;majonéz
+115;r Höhepunkt, e;csúcspont;e Landstraße, n;országút;s Abendessen, ~;vacsora;einen Sprachkurs machen;egy nyelvtanfolyamon részt venni;;;;;;;;;e Flasche, n;üveg / palack
+116;r Wintersport;télisport;e Firma, Firmen;vállalat;s Hektar, e;hektár;sprechen;beszélni;;;;;;;;;s Stück, e;darab
+117;r Karneval, s(/e);karnevál;e Möglichkeit, en;lehetőség;s Grün, s;zöld;eine gute Arbeit finden;egy jó munkát találni;;;;;;;;;s Paar, e;pár
+118;r Quadratkilometer, ~;négyzetkilométer;e Muttersprache, n;anyanyelv;s Ende, n;vég;importieren;importálni;;;;;;;;;r/s Kilo, ~/s;kiló
+119;r Leuchtturm, ¨-e;világítótorony;e Fremdsprache, n;idegen nyelv;s Problem, e;probléma;möchten;szeretni (feltételes mód);;;;;;;;;s Würstchen, ~;virsli
+120;r Flughafen, ¨-;repülőtér;e Mitte, n;közép;s Steak, s;szték;wollen;akarni;;;;;;;;;s Debreziner Würstchen, ~;debreceni virsli
+121;r Ungar, n;magyar férfi;e Reformation, en;reformáció;s Kabel-TV, s;kábeltelevízió ;bekommen;kapni;;;;;;;;;;
+122;r Wettbewerb, e;verseny;e Woche, n;hét;r/s Safe, s;széf;telefonieren;telefonálni;;;;;;;;;;
+123;r Burg, en;vár;e Börse, n;tőzsde/pénztárca;s Dampfbad, e;gőrfürdő;kennen;ismerni;;;;;;;;;;
+124;r Nebel;köd;e Buchmesse, n;könyvvásár;s Solarium, Solarien;szolárium;reichen;nyújtani / elég lenni;;;;;;;;;;
+125;r Preis, e;ár;e Dynamik, en;dinamika;s Trinken;innivaló;sparen;spórolni / megtakarítani;;;;;;;;;;
+126;r Fernseher, ~;TV;e Ungarin, nen;magyar nő;s Parken;parkoló / parkolás;babysitten;babyszittelni;;;;;;;;;;
+127;r Kopfhörer, ~;fejhallgató;e Ungarn;magyarok;s Lunchpaket, e;ebéd-csomag;arbeiten / jobben;dolgozni;;;;;;;;;;
+128;r Monitor, e/en;kijelző;e Küste, n;sziklás tengerpart;s Salatbüfett, s;salátabüfé;meinen;vélni;;;;;;;;;;
+129;r Bildschirm, e;képernyő;e Ostsee;Balti-tenger;s Babyphon, e;bébimonitor;brauchen;kelleni / szükségesnek lenni;;;;;;;;;;
+130;r [Radio]wecker, ~;ébresztőóra;e Terasse, n;terasz;s Babybett, en;gyerekágy;eine gute Qualität haben;jó minőséggel rendelkezni;;;;;;;;;;
+131;r Akku, s;akkumulátor;e Brücke, n;híd;s Bargeld;készpénz;schwitzen;izzadni;;;;;;;;;;
+132;r Kredit, e;hitel;e Bank, ¨-e;pad;s Haustier, e;háziállat;zelten;sátorozni;;;;;;;;;;
+133;r Zug, ¨-e;vonat;e Sehenswürdigkeit, en;látnivaló;s Bioecke, n;biosarok;packen;csomagolni;;;;;;;;;;
+134;r Ball, ¨-e;labda;e Kettenbrücke;Lánchíd;s Lebensmittel, ~;élelmiszer;einpacken;becsomagolni;;;;;;;;;;
+135;r Großvater, ¨- / r Opa, s;nagyapa;e Akademie, n;akadémia;s Brot, e;kenyér;mitnehmen;magával vinni;;;;;;;;;;
+136;r Mensch, en;ember;e Ermäßigung, en;kedvezmény;s Müsli;müzli;einschlafen;elaludni;;;;;;;;;;
+137;r Camcorder, ~;videókamera;e Hifi-Anlage, n;Hifi torony;s Ei, er;tojás;leihen;kölcsönözni / kölcsönadni;;;;;;;;;;
+138;r Sessel, ~;fotel;e Fotofunktion, en;fotó-funkció;s Fleisch;hús;frühstücken;reggelizni;;;;;;;;;;
+139;r Balkon, s/e;erkély;e Uhr, en;óra (készülék);r/s Joghurt, s;joghurt;essen;enni;;;;;;;;;;
+140;r Roboter, ~;robot;e Vergangenheit;múlt;s Eis;jég / fagylalt;schwimmen;úszni;;;;;;;;;;
+141;r Pullover, ~;pulóver;e Zukunft;jövő;s Sandwich, (e)s;szendvics;Beachvolleyball spielen;strandröplabdázni;;;;;;;;;;
+142;r Anzug, ¨-e;öltöny;e Ansichtskarte, n;képeslap;s Brötchen, ~;zsemle;kochen;főzni;;;;;;;;;;
+143;r Schuh, e;cipő;e Garantie, n;garancia;s Obst;gyümölcs;waschen;mosni;;;;;;;;;;
+144;r Rock, ¨-e;szoknya;e Oma, s / e Großmutter, ¨-;nagyanya;s Gemüse;zöldség;die Kleidung waschen;kimosni a ruhákat;;;;;;;;;;
+145;r Hut, ¨-e;kalap;e Vermutung, en;sejtés;s Getränk, e;ital;Billard spielen;biliárdozni;;;;;;;;;;
+146;r Schal, s;sál;e Digitalkamera, s;digitális kamera;s Dessert, s;desszert;duschen;zuhanyozni;;;;;;;;;;
+147;r Mantel, ¨-;kabát;e Wohngemeinschaft, en;közös lakás;r/s Ketchup, s;ketchup;gehören;vki/vmi - hoz tartozni;;;;;;;;;;
+148;r Sprachkurs, e;nyelvtanfolyam;e Wohnzimmertisch, e / e WG, s;nappali asztal;s Stück, e;darab;mitarbeiten;együtt dolgozni;;;;;;;;;;
+149;r Beruf, e;szakma;e Küche, n;konyha;s Paar, e;pár;ein Gymnasium besuchen;gimnáziumba járni ;;;;;;;;;;
+150;r Universität, e, en / Uni, s;egyetem;e Mediennutzung;médiahasználat;r/s Kilo, ~/s;kiló;an der Rezeption arbeiten;a recepción dolgozni;;;;;;;;;;
+151;r Wein, e;bor;e Klamotten;ruha cuccok;s Würstchen, ~;virsli;zeigen;mutatni;;;;;;;;;;
+152;r Journalist, en;újságíró;e Modenschau, en;divatbemutató;s Debreziner Würstchen, ~;debreceni virsli;klingeln;csörögni;;;;;;;;;;
 153;r Haushalt, e;háztartás;e Krawatte, n;nyakkendő;;;bestellen;rendelni / megrendelni;;;;;;;;;;
 154;r Luxus;luxus;e Jeans;farmer;;;zu Mittag essen;ebédelni;;;;;;;;;;
 155;r Lederschuh;bőrcipő;e Hose, n;nadrág;;;zu Abend essen;vacsorázni;;;;;;;;;;
 156;r Rhein;Rajna;e Bluse, n;blúz;;;pulsieren;lüktetni / pulzálni;;;;;;;;;;
 157;r Main;Majna;e Jacke, n;rövid-kabát/dzseki;;;besorgen;beszerezni;;;;;;;;;;
-158;r Kuchen;süti;e Mütze, n;sapka;;;laden;hívogatni;;;;;;;;;;
-159;r Schlüssel, ~;kulcs;e Schülerzeitung, en;iskolaújság;;;akzeptieren;elfogadni;;;;;;;;;;
-160;r Gaskocher, ~;gázrezsó;e Markenklamotten;márkás termék;;;;;;;;;;;;;;
-161;r Schlafsack, ¨-e;alvózsák;e Kleidung, en;ruházat;;;;;;;;;;;;;;
-162;r Kamm, ¨-e;fésű;e Farbe, n;szín;;;;;;;;;;;;;;
-163;r Badeanzug, ¨-e;fürdőruha;e Sprachschule, n;nyelviskola;;;;;;;;;;;;;;
-164;r Bikini, s;bikini;e Kultur, en;kultúra;;;;;;;;;;;;;;
-165;r Regenmantel, ¨-;esőkabát;e Journalistin, nen;újságírónő;;;;;;;;;;;;;;
-166;r Verleih, e;kölcsönző;e Oper, n;opera;;;;;;;;;;;;;;
-167;r Beachvolleyball, ¨-e;strandröplabda;e Heimat;haza;;;;;;;;;;;;;;
-168;r Computerraum, ¨-e;számítógépes terem;e E-Mail, s;email;;;;;;;;;;;;;;
-169;r Sportplatz, ¨-e;sportpálya;e Handykarte, n;SIM-kártya;;;;;;;;;;;;;;
-170;r Botanische Garten;botanikus kert;e Lederschuhe;bőrcipő;;;;;;;;;;;;;;
-171;r Gast, ¨-e;vendég;e Markenschuhe;márkás cipő;;;;;;;;;;;;;;
-172;r Sohn, ¨-e;fia (valakinek);e Qualität;minőség;;;;;;;;;;;;;;
-173;r Wunsch, ¨-e;kívánság;e Theiß;Tisza;;;;;;;;;;;;;;
-174;r Balaton / r Plattensee;Balaton;e CD, s;CD;;;;;;;;;;;;;;
-175;r Campingplatz, ¨-e;kemping;e Badehose, n;fürdőnadrág;;;;;;;;;;;;;;
-176;r Wiener, ~;bécsi (férfi);e Liste, n;lista;;;;;;;;;;;;;;
-177;r Schlosspark, s/e/¨-e;kastélypark;e Luftmatratze, n;gumimatrac;;;;;;;;;;;;;;
-178;r Anfang, ¨-e;kezdet;e Taschenlampe, n;zseblámpa;;;;;;;;;;;;;;
-179;r Kilometer, ~;kilométer;e Preisliste, n;árlista;;;;;;;;;;;;;;
-180;r Grillabend, e;grillest;e Pension, en;panzió;;;;;;;;;;;;;;
-181;r Badesee, n;fürdőtó;e Minibar;minibár;;;;;;;;;;;;;;
-182;r/s Safe, s;széf;e Dusche, n;zuhany;;;;;;;;;;;;;;
-183;r Familienurlaub, e;családi nyaralás;e Waschküche, n;mosókonyha;;;;;;;;;;;;;;
-184;r Kinderhochstuhl, ¨-e;gyermek etetőszék;e Salzslange, n;sós perec;;;;;;;;;;;;;;
-185;;;e Einrechtung, en;berendezés ;;;;;;;;;;;;;;
-186;;;e Mikrowelle, n;mikró ;;;;;;;;;;;;;;
-187;;;e Waschmaschine, n;mosógép ;;;;;;;;;;;;;;
-188;;;e Rezeption, en;recepció ;;;;;;;;;;;;;;
-189;;;e Ordnung, en;rend;;;;;;;;;;;;;;
-190;;;e Rose, n;rózsa;;;;;;;;;;;;;;
-191;;;e See, n;tenger;;;;;;;;;;;;;;
-192;;;e Nordsee;Északi-tenger;;;;;;;;;;;;;;
-193;;;e Verpflegung, en;ellátás;;;;;;;;;;;;;;
-194;;;e Anzahl;szám / darabszám / mennyiség / sokaság;;;;;;;;;;;;;;
-195;;;e Abreise, n;indulás / elutazás;;;;;;;;;;;;;;
-196;;;e Anreise, n;megérkezés / odautazás;;;;;;;;;;;;;;
-197;;;e Wienerin, nen;bécsi (nő);;;;;;;;;;;;;;
-198;;;e Kombination, en;kombináció;;;;;;;;;;;;;;
-199;;;e Großstadt, ¨-e;nagyváros;;;;;;;;;;;;;;
-200;;;e Oase, n;oázis;;;;;;;;;;;;;;
-201;;;e Lage, n;fekvés / helyzet;;;;;;;;;;;;;;
-202;;;e Sauna, s/Saunen;szauna;;;;;;;;;;;;;;
+158;r Schlüssel, ~;kulcs;e Mütze, n;sapka;;;laden;hívogatni;;;;;;;;;;
+159;r Gaskocher, ~;gázrezsó;e Schülerzeitung, en;iskolaújság;;;akzeptieren;elfogadni;;;;;;;;;;
+160;r Schlafsack, ¨-e;alvózsák;e Markenklamotten;márkás termék;;;werden;valamilyenné válni;;;;;;;;;;
+161;r Kamm, ¨-e;fésű;e Kleidung, en;ruházat;;;fahren;utazni (rövid/hosszú távú);;;;;;;;;;
+162;r Badeanzug, ¨-e;fürdőruha;e Farbe, n;szín;;;reisen;utazni (hosszú távú);;;;;;;;;;
+163;r Bikini, s;bikini;e Sprachschule, n;nyelviskola;;;Hunger haben;éhséggel rendelkezni;;;;;;;;;;
+164;r Regenmantel, ¨-;esőkabát;e Kultur, en;kultúra;;;hungrig sein;éhes lenni;;;;;;;;;;
+165;r Verleih, e;kölcsönző;e Journalistin, nen;újságírónő;;;auf dem Market arbeiten;a piacon dolgozni;;;;;;;;;;
+166;r Beachvolleyball, ¨-e;strandröplabda;e Oper, n;opera;;;;;;;;;;;;;;
+167;r Computerraum, ¨-e;számítógépes terem;e Heimat;haza;;;;;;;;;;;;;;
+168;r Sportplatz, ¨-e;sportpálya;e E-Mail, s;email;;;;;;;;;;;;;;
+169;r Botanische Garten;botanikus kert;e Handykarte, n;SIM-kártya;;;;;;;;;;;;;;
+170;r Gast, ¨-e;vendég;e Lederschuhe;bőrcipő;;;;;;;;;;;;;;
+171;r Sohn, ¨-e;fia (valakinek);e Markenschuhe;márkás cipő;;;;;;;;;;;;;;
+172;r Wunsch, ¨-e;kívánság;e Qualität;minőség;;;;;;;;;;;;;;
+173;r Balaton / r Plattensee;Balaton;e Theiß;Tisza;;;;;;;;;;;;;;
+174;r Campingplatz, ¨-e;kemping;e CD, s;CD;;;;;;;;;;;;;;
+175;r Wiener, ~;bécsi (férfi);e Badehose, n;fürdőnadrág;;;;;;;;;;;;;;
+176;r Schlosspark, s/e/¨-e;kastélypark;e Liste, n;lista;;;;;;;;;;;;;;
+177;r Anfang, ¨-e;kezdet;e Luftmatratze, n;gumimatrac;;;;;;;;;;;;;;
+178;r Kilometer, ~;kilométer;e Taschenlampe, n;zseblámpa;;;;;;;;;;;;;;
+179;r Grillabend, e;grillest;e Preisliste, n;árlista;;;;;;;;;;;;;;
+180;r Badesee, n;fürdőtó;e Pension, en;panzió;;;;;;;;;;;;;;
+181;r/s Safe, s;széf;e Minibar;minibár;;;;;;;;;;;;;;
+182;r Familienurlaub, e;családi nyaralás;e Dusche, n;zuhany;;;;;;;;;;;;;;
+183;r Kinderhochstuhl, ¨-e;gyermek etetőszék;e Waschküche, n;mosókonyha;;;;;;;;;;;;;;
+184;r Baum, ¨-e;fa;e Salzslange, n;sós perec;;;;;;;;;;;;;;
+185;r Regen;eső;e Einrichtung, en;berendezés ;;;;;;;;;;;;;;
+186;r Anschluss, ¨-e;csatlakozás;e Mikrowelle, n;mikró ;;;;;;;;;;;;;;
+187;r Appetit;étvágy;e Waschmaschine, n;mosógép ;;;;;;;;;;;;;;
+188;r Hunger;éhség;e Rezeption, en;recepció ;;;;;;;;;;;;;;
+189;r Kühlschrank, ¨-e;hűtőszekrény;e Ordnung, en;rend;;;;;;;;;;;;;;
+190;r Fisch,e ;hal;e Rose, n;rózsa;;;;;;;;;;;;;;
+191;r Käse, ~;sajt;e See, n;tenger;;;;;;;;;;;;;;
+192;r Kuchen, ~;süti;e Nordsee;Északi-tenger;;;;;;;;;;;;;;
+193;r/s Joghurt, s;joghurt;e Verpflegung, en;ellátás;;;;;;;;;;;;;;
+194;r Salat, e;saláta;e Anzahl;szám / darabszám / mennyiség / sokaság;;;;;;;;;;;;;;
+195;r Zucker;cukor;e Abreise, n;indulás / elutazás;;;;;;;;;;;;;;
+196;r Apfel, ¨-e;alma;e Anreise, n;megérkezés / odautazás;;;;;;;;;;;;;;
+197;r Salz, e;só;e Wienerin, nen;bécsi (nő);;;;;;;;;;;;;;
+198;r/e Paprika, s;paprika;e Kombination, en;kombináció;;;;;;;;;;;;;;
+199;r Alkohol, e;alkohol;e Großstadt, ¨-e;nagyváros;;;;;;;;;;;;;;
+200;r Oberbegriff, e;gyűjtőfogalom;e Oase, n;oázis;;;;;;;;;;;;;;
+201;r/s Ketchup, s;ketchup;e Lage, n;fekvés / helyzet;;;;;;;;;;;;;;
+202;r/s Kilo, ~/s;kiló;e Sauna, s/Saunen;szauna;;;;;;;;;;;;;;
 203;;;e Fitness;fitnesz;;;;;;;;;;;;;;
 204;;;e Menüwahl, en;menüválaszték / menüsor;;;;;;;;;;;;;;
 205;;;e Zahlungsweise, n;fizetési mód;;;;;;;;;;;;;;
 206;;;e Kreditkarte, n;bankkártya / hitelkártya;;;;;;;;;;;;;;
 207;;;e Vollpension, en;teljes ellátás;;;;;;;;;;;;;;
+208;;;e Mineralquelle, n;ásványforrás;;;;;;;;;;;;;;
+209;;;e Butter;vaj;;;;;;;;;;;;;;
+210;;;e Gurke, n;uborka;;;;;;;;;;;;;;
+211;;;e Marmelade, n;lekvár;;;;;;;;;;;;;;
+212;;;e Salami;szalámi;;;;;;;;;;;;;;
+213;;;e Milch;tej;;;;;;;;;;;;;;
+214;;;e Tomate, n;paradicsom;;;;;;;;;;;;;;
+215;;;e Orange, n;narancs;;;;;;;;;;;;;;
+216;;;e Banane, n;banán;;;;;;;;;;;;;;
+217;;;r/e Paprika, s;paprika;;;;;;;;;;;;;;
+218;;;e Süßigkeit, en;édeség;;;;;;;;;;;;;;
+219;;;e Pommes (frites);hasábburgonya;;;;;;;;;;;;;;
+220;;;e Mayonnaise, n;majonéz;;;;;;;;;;;;;;
+221;;;e Flasche, n;üveg / palack;;;;;;;;;;;;;;
