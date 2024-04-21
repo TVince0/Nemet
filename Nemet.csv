@@ -93,8 +93,8 @@
 92;r Sommer;nyár;e Party, s;buli;s Semester, ~;félév;im Internet surfen;internetezni;ruhig;csendes;dazu;ahhoz;;;;;akzeptieren;elfogadni
 93;r Herbst;ősz;e Schwester, n;lánytestvér;s Projekt, e;projekt;auf Kredit kaufen;hitelre vásárolni;sonnig;napos;einige;néhány;;;;;werden;valamilyenné válni
 94;r Monat;hónap;r/e Single, s;egyedülálló nő/férfi;s Badezimmer, ~;fürdőszoba;weinen;sírni;hungrig;éhes;einige Klamotten;néhány ruha;;;;;fahren;utazni (rövid/hosszú távú)
-95;r Schneemann, ¨-er;hóember;e Sprache, n;nyelv;s Taschengeld;zsebpénz;schinken;küldeni;;;ohne + A;vki/vmi nélkül;;;;;reisen;utazni (hosszú távú)
-96;r Wetterbericht, e;időjárás-jelentés;e Stunde, n;óra (60 perc), tanóra;s Duschgel, e;tusfürdő;warten;várni;;;für + A;vki/vmi -nak/-nek;;;;;Hunger haben;éhséggel rendelkezni
+95;r Schneemann, ¨-er;hóember;e Sprache, n;nyelv;s Taschengeld;zsebpénz;schinken;küldeni;bloß;csupán / csak;ohne + A;vki/vmi nélkül;;;;;reisen;utazni (hosszú távú)
+96;r Wetterbericht, e;időjárás-jelentés;e Stunde, n;óra (60 perc), tanóra;s Duschgel, e;tusfürdő;warten;várni;endlich;végre / valahára;für + A;vki/vmi -nak/-nek;;;;;Hunger haben;éhséggel rendelkezni
 97;r Bruder, ¨-;fiútestvér;e Tafel, n;tábla;s Beispiel, e;példa;winken;integetni;;;irgendwo;valahol;;;;;hungrig sein;éhes lenni
 98;r/e Single, s;egyedülálló nő/férfi;e Tasche, n;táska;s Zelt, e;sátor;rechnen;számolni;;;eigentlich;tulajdonképpen;;;;;auf dem Markt arbeiten;a piacon dolgozni
 99;r Stuhl, ¨-e;szék;e Umfrage, n;közvéleménykutatás;s Schachspiel, e;sakk;Glück haben;szerencsésnek lenni;;;morgen;holnap;;;;;optimale;optimális / lehető legjobb
@@ -151,7 +151,7 @@
 150;r Universität, e, en / Uni, s;egyetem;e Mediennutzung;médiahasználat;r/s Kilo, ~/s;kiló;ein Gymnasium besuchen;gimnáziumba járni ;;;;;;;;;;
 151;r Wein, e;bor;e Klamotten;ruha cuccok;s Würstchen, ~;virsli;an der Rezeption arbeiten;a recepción dolgozni;;;;;;;;;;
 152;r Journalist, en;újságíró;e Modenschau, en;divatbemutató;s Debreziner Würstchen, ~;debreceni virsli;zeigen;mutatni;;;;;;;;;;
-153;r Haushalt, e;háztartás;e Krawatte, n;nyakkendő;;;klingeln;csörögni;;;;;;;;;;
+153;r Haushalt, e;háztartás;e Krawatte, n;nyakkendő;s Glas, ¨-er;pohár;klingeln;csörögni;;;;;;;;;;
 154;r Luxus;luxus;e Jeans;farmer;;;bestellen;rendelni / megrendelni;;;;;;;;;;
 155;r Lederschuh;bőrcipő;e Hose, n;nadrág;;;zu Mittag essen;ebédelni;;;;;;;;;;
 156;r Rhein;Rajna;e Bluse, n;blúz;;;zu Abend essen;vacsorázni;;;;;;;;;;
@@ -165,7 +165,7 @@
 164;r Regenmantel, ¨-;esőkabát;e Kultur, en;kultúra;;;Hunger haben;éhséggel rendelkezni;;;;;;;;;;
 165;r Verleih, e;kölcsönző;e Journalistin, nen;újságírónő;;;hungrig sein;éhes lenni;;;;;;;;;;
 166;r Beachvolleyball, ¨-e;strandröplabda;e Oper, n;opera;;;auf dem Markt arbeiten;a piacon dolgozni;;;;;;;;;;
-167;r Computerraum, ¨-e;számítógépes terem;e Heimat;haza;;;;;;;;;;;;;;
+167;r Computerraum, ¨-e;számítógépes terem;e Heimat;haza;;;alle sein;elfogyva lenni;;;;;;;;;;
 168;r Sportplatz, ¨-e;sportpálya;e E-Mail, s;email;;;;;;;;;;;;;;
 169;r Botanische Garten;botanikus kert;e Handykarte, n;SIM-kártya;;;;;;;;;;;;;;
 170;r Gast, ¨-e;vendég;e Lederschuhe;bőrcipő;;;;;;;;;;;;;;
@@ -220,3 +220,5 @@
 219;;;e Pommes (frites);hasábburgonya;;;;;;;;;;;;;;
 220;;;e Mayonnaise, n;majonéz;;;;;;;;;;;;;;
 221;;;e Flasche, n;üveg / palack;;;;;;;;;;;;;;
+222;;;e Wurst, ¨-e;kolbász / felvágott;;;;;;;;;;;;;;
+223;;;e Tasse, n;csésze;;;;;;;;;;;;;;
