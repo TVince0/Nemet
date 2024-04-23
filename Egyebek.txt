@@ -1,1 +1,1 @@
-[Radio]wecker,Radiowecker;Pommes (frites),Pommes frites;
+[Radio]wecker,Radiowecker;Pommes (frites),Pommes frites;Kabel-TV,Kabel-T V;
