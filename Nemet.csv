@@ -152,7 +152,7 @@
 151;r Wein, e;bor;e Klamotten;ruha cuccok;s Würstchen, ~;virsli;an der Rezeption arbeiten;a recepción dolgozni;;;;;;;;;;
 152;r Journalist, en;újságíró;e Modenschau, en;divatbemutató;s Debreziner Würstchen, ~;debreceni virsli;zeigen;mutatni;;;;;;;;;;
 153;r Haushalt, e;háztartás;e Krawatte, n;nyakkendő;s Glas, ¨-er;pohár;klingeln;csörögni;;;;;;;;;;
-154;r Luxus;luxus;e Jeans;farmer;;;bestellen;rendelni / megrendelni;;;;;;;;;;
+154;r Luxus;luxus;e Jeans;farmer;r Salz, e;só;bestellen;rendelni / megrendelni;;;;;;;;;;
 155;r Lederschuh;bőrcipő;e Hose, n;nadrág;;;zu Mittag essen;ebédelni;;;;;;;;;;
 156;r Rhein;Rajna;e Bluse, n;blúz;;;zu Abend essen;vacsorázni;;;;;;;;;;
 157;r Main;Majna;e Jacke, n;rövid-kabát/dzseki;;;pulsieren;lüktetni / pulzálni;;;;;;;;;;
@@ -195,12 +195,12 @@
 194;r Salat, e;saláta;e Anzahl;szám / darabszám / mennyiség / sokaság;;;;;;;;;;;;;;
 195;r Zucker;cukor;e Abreise, n;indulás / elutazás;;;;;;;;;;;;;;
 196;r Apfel, ¨-e;alma;e Anreise, n;megérkezés / odautazás;;;;;;;;;;;;;;
-197;r Salz, e;só;e Wienerin, nen;bécsi (nő);;;;;;;;;;;;;;
-198;r/e Paprika, s;paprika;e Kombination, en;kombináció;;;;;;;;;;;;;;
-199;r Alkohol, e;alkohol;e Großstadt, ¨-e;nagyváros;;;;;;;;;;;;;;
-200;r Oberbegriff, e;gyűjtőfogalom;e Oase, n;oázis;;;;;;;;;;;;;;
-201;r/s Ketchup, s;ketchup;e Lage, n;fekvés / helyzet;;;;;;;;;;;;;;
-202;r/s Kilo, ~/s;kiló;e Sauna, s/Saunen;szauna;;;;;;;;;;;;;;
+197;r/e Paprika, s;paprika;e Wienerin, nen;bécsi (nő);;;;;;;;;;;;;;
+198;r Alkohol, e;alkohol;e Kombination, en;kombináció;;;;;;;;;;;;;;
+199;r Oberbegriff, e;gyűjtőfogalom;e Großstadt, ¨-e;nagyváros;;;;;;;;;;;;;;
+200;r/s Ketchup, s;ketchup;e Oase, n;oázis;;;;;;;;;;;;;;
+201;r/s Kilo, ~/s;kiló;e Lage, n;fekvés / helyzet;;;;;;;;;;;;;;
+202;;;e Sauna, s/Saunen;szauna;;;;;;;;;;;;;;
 203;;;e Fitness;fitnesz;;;;;;;;;;;;;;
 204;;;e Menüwahl, en;menüválaszték / menüsor;;;;;;;;;;;;;;
 205;;;e Zahlungsweise, n;fizetési mód;;;;;;;;;;;;;;
