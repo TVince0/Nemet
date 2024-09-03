@@ -1,1 +1,1 @@
-[Radio]wecker,Radiowecker;Pommes (frites),Pommes frites;Kabel-TV,Kabel-T V;Hausaufgabe,Hausaufgabe;für + A,für plus Akkusativ;
+[Radio]wecker,Radiowecker;Pommes (frites),Pommes frites;Kabel-TV,Kabel-T V;Hausaufgabe,Hausaufgabe;für + A,für plus Akkusativ;fertig (sein),fertig sein;
