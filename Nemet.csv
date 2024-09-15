@@ -17,12 +17,12 @@
 16;r Physiker, ~;fizikus;e Donau;Duna;s Hotel, s;szálloda;Sport machen;sportolni;arbeitslos;munkanélküli;jetzt;most;Rumänien;Románia;;;morgens;reggelente
 17;r Dichter, ~;költő;e Kasse, n;kassza;s Taxi, s;taxi;leben;élni;nett;barátságos/kedves;zusammen;együtt;Tschechien;Csehország;;;deshalb;ezért / azért
 18;r Erfinder, ~;feltaláló;e Pizza, s/Pizzen;pizza;s Zimmer, ~;szoba;tranieren;edzeni;schlecht;rossz;Ballett tanzen;balettáncos;Griechenland;Görögország;;;im Allgemeinen;általábban
-19;r Ingenieur, e;mérnök;e Frage, n;kérdés;s Restaurant, s;étterem;Klavier spielen;zongorázni;teuer;drága;nur;csak;Kroatien;Horvátország;;;;
-20;r Theologe, n;teológus;e Antwort, en;válasz;s Wasser;víz;stehen;állni;sympathisch;szimpatikus;anders;másképp;Belgien;Belgium;;;;
-21;r Rennfahrer, ~;autóversenyző;e Zahl, en;szám;s Mineralwasser;ásványvíz;Federball spielen;tollasozni;gut;jó;natürlich;természetesen;Afrika;Afrika;;;;
-22;r Industrielle, n;iparos;e Schülerin, nen;diák (lány);s Studio, s;stúdió;joggen;kocogni;richtig;helyes;bald;hamarosan/nemsokára;China;Kína;;;;
-23;r Schüler, ~;diák (fiú);e Reihenfolge, n;sorrend;s Casting, s;kasztolás;kaufen;vásárolni;langweilig;unalmas;schon;régóta, sokáig;Rom;Róma;;;;
-24;r Name, n;név;e Sonne, n;Nap (csillag);s Fotomodell, e;fotómodell;Tennis spielen;teniszezni;glücklich;boldog;gern;szívesen;Neapel;Nápoly;;;;
+19;r Ingenieur, e;mérnök;e Frage, n;kérdés;s Restaurant, s;étterem;Klavier spielen;zongorázni;teuer;drága;nur;csak;Kroatien;Horvátország;;;e Metzgerei, n;hentes
+20;r Theologe, n;teológus;e Antwort, en;válasz;s Wasser;víz;stehen;állni;sympathisch;szimpatikus;anders;másképp;Belgien;Belgium;;;e Öffnungszeiten;nyitás
+21;r Rennfahrer, ~;autóversenyző;e Zahl, en;szám;s Mineralwasser;ásványvíz;Federball spielen;tollasozni;gut;jó;natürlich;természetesen;Afrika;Afrika;;;s Pferd, e;ló
+22;r Industrielle, n;iparos;e Schülerin, nen;diák (lány);s Studio, s;stúdió;joggen;kocogni;richtig;helyes;bald;hamarosan/nemsokára;China;Kína;;;s Reisebüro, s;utazási iroda
+23;r Schüler, ~;diák (fiú);e Reihenfolge, n;sorrend;s Casting, s;kasztolás;kaufen;vásárolni;langweilig;unalmas;schon;régóta, sokáig;Rom;Róma;;;geöffnet sein;nyitva lenni
+24;r Name, n;név;e Sonne, n;Nap (csillag);s Fotomodell, e;fotómodell;Tennis spielen;teniszezni;glücklich;boldog;gern;szívesen;Neapel;Nápoly;;;geschlossen sein;zárva lenni
 25;r Junge, n, n/s;kisfiú;e Blume, n;virág;s Alphabet, e;ábécé;begrüßen;üdvözölni;lecker;finom;übrigens;egyébként;;;;;;
 26;r Dialog, e;dialógus;e Begrüßung, en;üdvözlés/köszönés;s Land, ¨-er;ország;finden;találni;faul;lusta;alle;minden-ki/-t;;;;;;
 27;r Eistee, s;jeges tea;e Autonummer, n;rendszám;s Café, s;kávézó;beantworten;megválaszolni;groß;nagy;heute;ma;;;;;;
@@ -172,8 +172,8 @@
 171;r Sohn, ¨-e;fia (valakinek);e Theiß;Tisza;r Salz, e;só;weiterspielen;továbbjátszani;;;;;;;;;;
 172;r Wunsch, ¨-e;kívánság;e CD, s;CD;s Stadtzentrum, Stadtzentren;városközpont;rufen;hívni (valahova);;;;;;;;;;
 173;r Balaton / r Plattensee;Balaton;e Badehose, n;fürdőnadrág;s Fremdwort, ¨-er;idegen szó;wandern;vándorolni;;;;;;;;;;
-174;r Campingplatz, ¨-e;kemping;e Liste, n;lista;;;schmecken;ízleni;;;;;;;;;;
-175;r Wiener, ~;bécsi (férfi);e Luftmatratze, n;gumimatrac;;;dick machen;hízlalni;;;;;;;;;;
+174;r Campingplatz, ¨-e;kemping;e Liste, n;lista;s Pferd, e;ló;schmecken;ízleni;;;;;;;;;;
+175;r Wiener, ~;bécsi (férfi);e Luftmatratze, n;gumimatrac;s Reisebüro, s;utazási iroda;dick machen;hízlalni;;;;;;;;;;
 176;r Schlosspark, s/e/¨-e;kastélypark;e Taschenlampe, n;zseblámpa;;;gründen;alapítani;;;;;;;;;;
 177;r Anfang, ¨-e;kezdet;e Preisliste, n;árlista;;;sammeln;gyűjteni;;;;;;;;;;
 178;r Kilometer, ~;kilométer;e Pension, en;panzió;;;treffen;találkozni;;;;;;;;;;
@@ -181,8 +181,8 @@
 180;r Badesee, n;fürdőtó;e Dusche, n;zuhany;;;müde sein;fáradt lenni;;;;;;;;;;
 181;r/s Safe, s;széf;e Waschküche, n;mosókonyha;;;gewinnen;nyerni;;;;;;;;;;
 182;r Familienurlaub, e;családi nyaralás;e Salzstange, n;sós perec;;;Ausflüge machen;kirándulni;;;;;;;;;;
-183;r Kinderhochstuhl, ¨-e;gyermek etetőszék;e Einrichtung, en;berendezés ;;;;;;;;;;;;;;
-184;r Baum, ¨-e;fa;e Mikrowelle, n;mikró ;;;;;;;;;;;;;;
+183;r Kinderhochstuhl, ¨-e;gyermek etetőszék;e Einrichtung, en;berendezés ;;;geöffnet sein;nyitva lenni;;;;;;;;;;
+184;r Baum, ¨-e;fa;e Mikrowelle, n;mikró ;;;geschlossen sein;zárva lenni;;;;;;;;;;
 185;r Regen;eső;e Waschmaschine, n;mosógép ;;;;;;;;;;;;;;
 186;r Anschluss, ¨-e;csatlakozás;e Rezeption, en;recepció ;;;;;;;;;;;;;;
 187;r Appetit;étvágy;e Ordnung, en;rend;;;;;;;;;;;;;;
@@ -264,3 +264,5 @@
 263;;;e Leseratte, n;könyvmoly;;;;;;;;;;;;;;
 264;;;e Langeweile;unalom;;;;;;;;;;;;;;
 265;;;e Pause, n;szünet;;;;;;;;;;;;;;
+266;;;e Metzgerei, n;hentes;;;;;;;;;;;;;;
+267;;;e Öffnungszeiten;nyitás;;;;;;;;;;;;;;
