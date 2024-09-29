@@ -58,9 +58,9 @@
 57;r Deutschkurs, e;német kurzus;e Chemikerin, nen;vegyésznő;s Einkaufszentrum, Einkaufszentren;bevásárlóközpont;schneien;havazni;sportlich;sportos;denn;ugyan, hát;;;;;diskutieren;megvitatni / megbeszélni
 58;r Chemiker, ~;vegyész;e Ärztin, nen;orvosnő;s Bürohaus, ¨-er;irodaház;regnen;esni;intelligent;okos;lange;régóta, sokáig;;;;;erklären;magyarázni / elmagyarázni
 59;r Arzt, ¨-e;orvos;e Flugbegleiterin, nen;légiutaskísérőnő;s Geschäft, e;üzlet;scheinen;látszani;sicher;biztos;nicht;nem;;;;;fühlen;érezni
-60;r Flugbegleiter, ~;légiutaskísérő;e Hausfrau, en;háziasszony;s Parlament, e;parlament;einen Schneemann bauen;hóembert építeni;unterschiedlich;különböző;so;annyira;;;;;;
-61;r Hausmann, ¨-er;háziúr;e Schauspielerin, nen;színésznő;s Schwimmbad, ¨-er;uszoda;fragen;kérdezni;toll / klasse;remek/klassz;viel;sok(at);;;;;;
-62;r Schauspieler, ~;színész;e Rechtsanwältin, nen;ügyvédnő;s Bad, e;fürdő;lernen;tanulni;rot;piros;viele;sok(an);;;;;;
+60;r Flugbegleiter, ~;légiutaskísérő;e Hausfrau, en;háziasszony;s Parlament, e;parlament;einen Schneemann bauen;hóembert építeni;unterschiedlich;különböző;so;annyira;;;;;r Kopfschmerz, en;fejfájás
+61;r Hausmann, ¨-er;háziúr;e Schauspielerin, nen;színésznő;s Schwimmbad, ¨-er;uszoda;fragen;kérdezni;toll / klasse;remek/klassz;viel;sok(at);;;;;abnehmen;lefogyni
+62;r Schauspieler, ~;színész;e Rechtsanwältin, nen;ügyvédnő;s Bad, e;fürdő;lernen;tanulni;rot;piros;viele;sok(an);;;;;nervös;ideges
 63;r Rechtsanwalt, ¨-e;ügyvéd;e Email-Adresse, n;email-cím;s Büro, s;iroda;sein;lenni;schwarz;fekete;von;vkinek/vminek a …-a/-e;;;;;;
 64;r Punkt, e;pont;e Postleitzahl, en;postaszám;s Thermalbad, ¨-er;termálfürdő;studieren;egyetemre/főiskolára járni;blau;kék;etwas;valami;;;;;;
 65;r Einwohner, ~;lakos;e Handynummer, n;mobilszám;s Volksfest, e;népünnepély;Fußball spielen;focizni;grün;zöld;rechts;jobbra;;;;;;
@@ -199,8 +199,8 @@
 198;r Alkohol, e;alkohol;e Oase, n;oázis;;;diskutieren;megvitatni / megbeszélni;;;;;;;;;;
 199;r Oberbegriff, e;gyűjtőfogalom;e Lage, n;fekvés / helyzet;;;erklären;magyarázni / elmagyarázni;;;;;;;;;;
 200;r/s Ketchup, s;ketchup;e Sauna, s/Saunen;szauna;;;fühlen;érezni;;;;;;;;;;
-201;r/s Kilo, ~/s;kiló;e Fitness;fitnesz;;;;;;;;;;;;;;
-202;r Pilz, e;gomba;e Menüwahl, en;menüválaszték / menüsor;;;;;;;;;;;;;;
+201;r/s Kilo, ~/s;kiló;e Fitness;fitnesz;;;abnehmen;lefogyni;;;;;;;;;;
+202;r Pilz, e;gomba;e Menüwahl, en;menüválaszték / menüsor;;;nervös;ideges;;;;;;;;;;
 203;r Mais,e ;kukorica;e Zahlungsweise, n;fizetési mód;;;;;;;;;;;;;;
 204;r Zimt, ~/e;fahéj;e Kreditkarte, n;bankkártya / hitelkártya;;;;;;;;;;;;;;
 205;r Bankschein, e;papírpénz / bankjegy / bankutalvány;e Vollpension, en;teljes ellátás;;;;;;;;;;;;;;
@@ -249,7 +249,7 @@
 248;r/e/s Dschungel, ~/s/n;dzsungel;e Bockwurst, ¨-e;virsli;;;;;;;;;;;;;;
 249;r Freizeitpark, s/e/¨-e;vidámpark;e Bude, n;elárusítóbódé / kioszk;;;;;;;;;;;;;;
 250;r Rundgang, ¨-e;körút;e Currywurst, ¨-e;currys kolbász;;;;;;;;;;;;;;
-251;;;e Deutsche, n;német nő;;;;;;;;;;;;;;
+251;r Kopfschmerz, en;fejfájás;e Deutsche, n;német nő;;;;;;;;;;;;;;
 252;;;e Enkelin, nen;lányunoka;;;;;;;;;;;;;;
 253;;;e Gulaschsuppe, n;gulyásleves;;;;;;;;;;;;;;
 254;;;e Melange, b;tejeskávé;;;;;;;;;;;;;;
