@@ -67,7 +67,7 @@
 66;r Fan, s;rajongó;e Telefonnummer, n;vonalas szám;s Fischerdorf, ¨-er;halászfalu;Karate machen;karatézni;gelb;sárga;links;balra;;;;;e Rückseite, n;hátoldal
 67;r Zoo, s;állatkert;e Straße, n;utca;s Hochhaus, ¨-er;toronyház/magasház;Musik hören;zenét hallgatni;weiß;fehér;gemeinsam;közösen/együtt;;;;;e Lücke, n;hézag
 68;r Handball, ¨-e;kézilabda;e Million, en;millió;s Barock;barokk;Saxofon spielen;szaxofonozni;braun;barna;über;felett/fölé;;;;;mischen;keverni
-69;r Brief, e;levél;e Landkarte, n;térkép;s Kostüm, e;jelmez;Tango tanzen;tangózni, tangót táncolni;unbequem;kényelmetlen;ins;vki/vmi -ba/-be;;;;;;
+69;r Brief, e;levél;e Landkarte, n;térkép;s Kostüm, e;jelmez;Tango tanzen;tangózni, tangót táncolni;unbequem;kényelmetlen;ins;vki/vmi -ba/-be;;;;;legen;fektetni
 70;r Krankenpfleger, ~;ápoló;e Sache, n;dolog;s Meer, e;tenger;küssen;puszilni/csókolni;bequem;kényelmes;besonders;különösen;;;;;;
 71;r Sänger, ~;énekes;e Hauptsache, n;lényeg;s Sonderangebot, e;leárazás/különleges ajánlat;bauen;építeni;kurz;rövid;fast;majdnem;;;;;;
 72;r Tänzer, ~;táncos;e Entschuldigung, en / e Verzeihung, en;elnézés/-t / bocsánat;s Gerät, e;készülék;reparieren;javítani;lang;hosszú;wieder;ismét/újra;;;;;;
@@ -201,7 +201,7 @@
 200;r/s Ketchup, s;ketchup;e Sauna, s/Saunen;szauna;;;fühlen;érezni;;;;;;;;;;
 201;r/s Kilo, ~/s;kiló;e Fitness;fitnesz;;;abnehmen;lefogyni;;;;;;;;;;
 202;r Pilz, e;gomba;e Menüwahl, en;menüválaszték / menüsor;;;mischen;keverni;;;;;;;;;;
-203;r Mais,e ;kukorica;e Zahlungsweise, n;fizetési mód;;;;;;;;;;;;;;
+203;r Mais,e ;kukorica;e Zahlungsweise, n;fizetési mód;;;legen;fektetni;;;;;;;;;;
 204;r Zimt, ~/e;fahéj;e Kreditkarte, n;bankkártya / hitelkártya;;;;;;;;;;;;;;
 205;r Bankschein, e;papírpénz / bankjegy / bankutalvány;e Vollpension, en;teljes ellátás;;;;;;;;;;;;;;
 206;r Pfannkuchen, ~;palacsinta (D);e Mineralquelle, n;ásványforrás;;;;;;;;;;;;;;
