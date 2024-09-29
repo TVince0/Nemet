@@ -63,8 +63,8 @@
 62;r Schauspieler, ~;színész;e Rechtsanwältin, nen;ügyvédnő;s Bad, e;fürdő;lernen;tanulni;rot;piros;viele;sok(an);;;;;nervös;ideges
 63;r Rechtsanwalt, ¨-e;ügyvéd;e Email-Adresse, n;email-cím;s Büro, s;iroda;sein;lenni;schwarz;fekete;von;vkinek/vminek a …-a/-e;;;;;r Bauch, ¨-e;has
 64;r Punkt, e;pont;e Postleitzahl, en;postaszám;s Thermalbad, ¨-er;termálfürdő;studieren;egyetemre/főiskolára járni;blau;kék;etwas;valami;;;;;r Kasten, ¨-;láda / doboz / tartó
-65;r Einwohner, ~;lakos;e Handynummer, n;mobilszám;s Volksfest, e;népünnepély;Fußball spielen;focizni;grün;zöld;rechts;jobbra;;;;;;
-66;r Fan, s;rajongó;e Telefonnummer, n;vonalas szám;s Fischerdorf, ¨-er;halászfalu;Karate machen;karatézni;gelb;sárga;links;balra;;;;;;
+65;r Einwohner, ~;lakos;e Handynummer, n;mobilszám;s Volksfest, e;népünnepély;Fußball spielen;focizni;grün;zöld;rechts;jobbra;;;;;e Karteikarte, n;indexkártya
+66;r Fan, s;rajongó;e Telefonnummer, n;vonalas szám;s Fischerdorf, ¨-er;halászfalu;Karate machen;karatézni;gelb;sárga;links;balra;;;;;e Rückseite, n;hátoldal
 67;r Zoo, s;állatkert;e Straße, n;utca;s Hochhaus, ¨-er;toronyház/magasház;Musik hören;zenét hallgatni;weiß;fehér;gemeinsam;közösen/együtt;;;;;;
 68;r Handball, ¨-e;kézilabda;e Million, en;millió;s Barock;barokk;Saxofon spielen;szaxofonozni;braun;barna;über;felett/fölé;;;;;;
 69;r Brief, e;levél;e Landkarte, n;térkép;s Kostüm, e;jelmez;Tango tanzen;tangózni, tangót táncolni;unbequem;kényelmetlen;ins;vki/vmi -ba/-be;;;;;;
@@ -289,3 +289,5 @@
 288;;;e Szene, n;jelenet / díszlet / színpad;;;;;;;;;;;;;;
 289;;;e Idee, n;ötlet;;;;;;;;;;;;;;
 290;;;e Badesachen;fürdőholmi;;;;;;;;;;;;;;
+291;;;e Karteikarte, n;indexkártya;;;;;;;;;;;;;;
+292;;;e Rückseite, n;hátoldal;;;;;;;;;;;;;;
