@@ -65,7 +65,7 @@
 64;r Punkt, e;pont;e Postleitzahl, en;postaszám;s Thermalbad, ¨-er;termálfürdő;studieren;egyetemre/főiskolára járni;blau;kék;etwas;valami;;;;;r Kasten, ¨-;láda / doboz / tartó
 65;r Einwohner, ~;lakos;e Handynummer, n;mobilszám;s Volksfest, e;népünnepély;Fußball spielen;focizni;grün;zöld;rechts;jobbra;;;;;e Karteikarte, n;indexkártya
 66;r Fan, s;rajongó;e Telefonnummer, n;vonalas szám;s Fischerdorf, ¨-er;halászfalu;Karate machen;karatézni;gelb;sárga;links;balra;;;;;e Rückseite, n;hátoldal
-67;r Zoo, s;állatkert;e Straße, n;utca;s Hochhaus, ¨-er;toronyház/magasház;Musik hören;zenét hallgatni;weiß;fehér;gemeinsam;közösen/együtt;;;;;;
+67;r Zoo, s;állatkert;e Straße, n;utca;s Hochhaus, ¨-er;toronyház/magasház;Musik hören;zenét hallgatni;weiß;fehér;gemeinsam;közösen/együtt;;;;;e Lücke, n;hézag
 68;r Handball, ¨-e;kézilabda;e Million, en;millió;s Barock;barokk;Saxofon spielen;szaxofonozni;braun;barna;über;felett/fölé;;;;;;
 69;r Brief, e;levél;e Landkarte, n;térkép;s Kostüm, e;jelmez;Tango tanzen;tangózni, tangót táncolni;unbequem;kényelmetlen;ins;vki/vmi -ba/-be;;;;;;
 70;r Krankenpfleger, ~;ápoló;e Sache, n;dolog;s Meer, e;tenger;küssen;puszilni/csókolni;bequem;kényelmes;besonders;különösen;;;;;;
@@ -291,3 +291,4 @@
 290;;;e Badesachen;fürdőholmi;;;;;;;;;;;;;;
 291;;;e Karteikarte, n;indexkártya;;;;;;;;;;;;;;
 292;;;e Rückseite, n;hátoldal;;;;;;;;;;;;;;
+293;;;e Lücke, n;hézag;;;;;;;;;;;;;;
