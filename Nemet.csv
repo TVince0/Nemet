@@ -50,7 +50,7 @@
 49;r Vorname, n;keresztnév;e Runde, n;forduló;e/s E-Mail, s;e-mail;Spaß machen;viccelni;luxuriös;fényűző;gerade;éppen;;;;;durch;keresztül / át
 50;r Automechaniker, ~;autószerelő;e Dame, n;hölgy;s Heft, e;füzet;Urlaub machen;nyaralni;romantisch;romantikus;leider;sajnos;;;;;s Theaterstück, e;színdarab
 51;r Vater, ¨-;apa;e Türkei;Törökország;s Karate;karate;viel unterwegs sein;sokat útón lenni;einfach;egyszerű;im Winter;télen;;;;;s Pech, e;balszerencse
-52;r Familienstand, ¨-e;családi állapot;e Kellnerin, nen;pincérnő;s Lernen, ~;tanulás;lieben;szeretni (embert);hübsch;csinos;Deutsch;német nyelv;;;;;;
+52;r Familienstand, ¨-e;családi állapot;e Kellnerin, nen;pincérnő;s Lernen, ~;tanulás;lieben;szeretni (embert);hübsch;csinos;Deutsch;német nyelv;;;;;böse;gonosz
 53;r Koch, ¨-e;szakács;e Pilotin, nen;pilótanő;s Modell, e;modell;gehen;menni;schreklich;borzasztó;alles;minden/-t;;;;;;
 54;r Kellner, n;pincér;e Arbeit, en;munka;s Studium, Studien;tanulmányok;fertig sein;kész lenni;schaußlich;pocsék;als;mint, -ként;;;;;;
 55;r Kurs, e;kurzus;e Familie, n;család;s Kino, s;mozi;verbringen;eltölteni (időt);schnell;gyors;auch;is;;;;;;
@@ -192,8 +192,8 @@
 191;r Käse, ~;sajt;e Verpflegung, en;ellátás;;;vergessen;felejteni / elfelejteni;;;;;;;;;;
 192;r Kuchen, ~;süti;e Anzahl;szám / darabszám / mennyiség / sokaság;;;einladen;meghívni;;;;;;;;;;
 193;r/s Joghurt, s;joghurt;e Abreise, n;indulás / elutazás;;;anrufen;felhívni;;;;;;;;;;
-194;r Salat, e;saláta;e Anreise, n;megérkezés / odautazás;;;;;;;;;;;;;;
-195;r Zucker;cukor;e Wienerin, nen;bécsi (nő);;;;;;;;;;;;;;
+194;r Salat, e;saláta;e Anreise, n;megérkezés / odautazás;;;weggehen;elmenni;;;;;;;;;;
+195;r Zucker;cukor;e Wienerin, nen;bécsi (nő);;;mitbringen;magával hozni / hordozni;;;;;;;;;;
 196;r Apfel, ¨-e;alma;e Kombination, en;kombináció;;;;;;;;;;;;;;
 197;r/e Paprika, s;paprika (termés);e Großstadt, ¨-e;nagyváros;;;;;;;;;;;;;;
 198;r Alkohol, e;alkohol;e Oase, n;oázis;;;;;;;;;;;;;;
