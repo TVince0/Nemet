@@ -62,7 +62,7 @@
 61;r Hausmann, ¨-er;háziúr;e Schauspielerin, nen;színésznő;s Schwimmbad, ¨-er;uszoda;fragen;kérdezni;toll / klasse;remek/klassz;viel;sok(at);;;;;abnehmen;lefogyni
 62;r Schauspieler, ~;színész;e Rechtsanwältin, nen;ügyvédnő;s Bad, e;fürdő;lernen;tanulni;rot;piros;viele;sok(an);;;;;nervös;ideges
 63;r Rechtsanwalt, ¨-e;ügyvéd;e Email-Adresse, n;email-cím;s Büro, s;iroda;sein;lenni;schwarz;fekete;von;vkinek/vminek a …-a/-e;;;;;r Bauch, ¨-e;has
-64;r Punkt, e;pont;e Postleitzahl, en;postaszám;s Thermalbad, ¨-er;termálfürdő;studieren;egyetemre/főiskolára járni;blau;kék;etwas;valami;;;;;;
+64;r Punkt, e;pont;e Postleitzahl, en;postaszám;s Thermalbad, ¨-er;termálfürdő;studieren;egyetemre/főiskolára járni;blau;kék;etwas;valami;;;;;r Kasten, ¨-;láda / doboz / tartó
 65;r Einwohner, ~;lakos;e Handynummer, n;mobilszám;s Volksfest, e;népünnepély;Fußball spielen;focizni;grün;zöld;rechts;jobbra;;;;;;
 66;r Fan, s;rajongó;e Telefonnummer, n;vonalas szám;s Fischerdorf, ¨-er;halászfalu;Karate machen;karatézni;gelb;sárga;links;balra;;;;;;
 67;r Zoo, s;állatkert;e Straße, n;utca;s Hochhaus, ¨-er;toronyház/magasház;Musik hören;zenét hallgatni;weiß;fehér;gemeinsam;közösen/együtt;;;;;;
@@ -251,7 +251,7 @@
 250;r Rundgang, ¨-e;körút;e Currywurst, ¨-e;currys kolbász;;;;;;;;;;;;;;
 251;r Kopfschmerz, en;fejfájás;e Deutsche, n;német nő;;;;;;;;;;;;;;
 252;r Bauch, ¨-e;has;e Enkelin, nen;lányunoka;;;;;;;;;;;;;;
-253;;;e Gulaschsuppe, n;gulyásleves;;;;;;;;;;;;;;
+253;r Kasten, ¨-;láda / doboz / tartó;e Gulaschsuppe, n;gulyásleves;;;;;;;;;;;;;;
 254;;;e Melange, b;tejeskávé;;;;;;;;;;;;;;
 255;;;e Portion, en;adag;;;;;;;;;;;;;;
 256;;;e Region, en;régió;;;;;;;;;;;;;;
