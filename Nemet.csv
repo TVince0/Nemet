@@ -67,11 +67,11 @@
 66;r Fan, s;rajongó;e Telefonnummer, n;vonalas szám;s Fischerdorf, ¨-er;halászfalu;Karate machen;karatézni;gelb;sárga;ins;vki/vmi -ba/-be;;;;;gestern;tegnap
 67;r Zoo, s;állatkert;e Straße, n;utca;s Hochhaus, ¨-er;toronyház/magasház;Musik hören;zenét hallgatni;weiß;fehér;besonders;különösen;;;;;laut;hangosan
 68;r Handball, ¨-e;kézilabda;e Million, en;millió;s Barock;barokk;Saxofon spielen;szaxofonozni;braun;barna;fast;majdnem;;;;;sicher;biztosan
-69;r Brief, e;levél;e Landkarte, n;térkép;s Kostüm, e;jelmez;Tango tanzen;tangózni, tangót táncolni;unbequem;kényelmetlen;wieder;ismét/újra;;;;;;
-70;r Krankenpfleger, ~;ápoló;e Sache, n;dolog;s Meer, e;tenger;küssen;puszilni/csókolni;bequem;kényelmes;circa / ungefähr / etwa;körülbelül;;;;;;
-71;r Sänger, ~;énekes;e Hauptsache, n;lényeg;s Sonderangebot, e;leárazás/különleges ajánlat;bauen;építeni;kurz;rövid;statt;helyett;;;;;;
-72;r Tänzer, ~;táncos;e Entschuldigung, en / e Verzeihung, en;elnézés/-t / bocsánat;s Gerät, e;készülék;reparieren;javítani;lang;hosszú;schnell;gyorsan;;;;;;
-73;r Reporter, ~;riporter;e Krankenschwester, n;ápolónő;s Angebot, e;ajánlat;bezahlen;fizetni;eng;szűk;doch;de;;;;;;
+69;r Brief, e;levél;e Landkarte, n;térkép;s Kostüm, e;jelmez;Tango tanzen;tangózni, tangót táncolni;unbequem;kényelmetlen;wieder;ismét/újra;;;;;offen;nyílt / nyitott
+70;r Krankenpfleger, ~;ápoló;e Sache, n;dolog;s Meer, e;tenger;küssen;puszilni/csókolni;bequem;kényelmes;circa / ungefähr / etwa;körülbelül;;;;;offen;nyíltan
+71;r Sänger, ~;énekes;e Hauptsache, n;lényeg;s Sonderangebot, e;leárazás/különleges ajánlat;bauen;építeni;kurz;rövid;statt;helyett;;;;;e Tür, en;ablak
+72;r Tänzer, ~;táncos;e Entschuldigung, en / e Verzeihung, en;elnézés/-t / bocsánat;s Gerät, e;készülék;reparieren;javítani;lang;hosszú;schnell;gyorsan;;;;;s Fenster, ~;ablak
+73;r Reporter, ~;riporter;e Krankenschwester, n;ápolónő;s Angebot, e;ajánlat;bezahlen;fizetni;eng;szűk;doch;de;;;;;s Flugzeug, e;repülőgép
 74;r Bäcker, ~;pék;e Köchin, nen;szakácsnő;s Handy, s;mobil/-telefon;besuchen;látogatni;weit;széles;hoffentlich;remélhetőleg;;;;;;
 75;r Richter, ~;bíró;e Ukraine;Ukrajna;s Notebook, s;laptop;zentral liegen;központban feküdni;wichtig;fontos;jeder / jede / jedes;mindenki;;;;;;
 76;r Verkäufer, ~;eladó;e Slowakei;Szlovákia;s Radio, s;rádió;feiern;ünnepelni;chaotisch;kaotikus;wirklich;valóban;;;;;;
@@ -135,13 +135,13 @@
 134;r Ball, ¨-e;labda;e Akademie, n;akadémia;s Brot, e;kenyér;ein|schlafen;elaludni;nachtaktiv;"""éjszakai bagyol""";gestern;tegnap;;;;;;
 135;r Großvater, ¨- / r Opa, s;nagyapa;e Ermäßigung, en;kedvezmény;s Müsli;müzli;leihen;kölcsönözni / kölcsönadni;brutal;brutális;laut;hangosan;;;;;;
 136;r Mensch, en;ember;e Hifi-Anlage, n;Hifi torony;s Ei, er;tojás;frühstücken;reggelizni;fit;fitt;sicher;biztosan;;;;;;
-137;r Camcorder, ~;videókamera;e Fotofunktion, en;fotó-funkció;s Fleisch;hús;essen;enni;frei;ingyenes;;;;;;;;
+137;r Camcorder, ~;videókamera;e Fotofunktion, en;fotó-funkció;s Fleisch;hús;essen;enni;frei;ingyenes;offen;nyíltan;;;;;;
 138;r Sessel, ~;fotel;e Uhr, en;óra (készülék);r/s Joghurt, s;joghurt;schwimmen;úszni;früh;korán;;;;;;;;
 139;r Balkon, s/e;erkély;e Vergangenheit;múlt;s Eis;jég / fagylalt;Beachvolleyball spielen;strandröplabdázni;laut;hangos;;;;;;;;
 140;r Roboter, ~;robot;e Zukunft;jövő;s Sandwich, (e)s;szendvics;kochen;főzni;müde;fáradt;;;;;;;;
 141;r Pullover, ~;pulóver;e Ansichtskarte, n;képeslap;s Brötchen, ~;zsemle;waschen;mosni;pünktlich;pontos (időben);;;;;;;;
 142;r Anzug, ¨-e;öltöny;e Garantie, n;garancia;s Obst;gyümölcs;die Kleidung waschen;kimosni a ruhákat;sicher;biztos;;;;;;;;
-143;r Schuh, e;cipő;e Oma, s / e Großmutter, ¨-;nagyanya;s Gemüse;zöldség;Billard spielen;biliárdozni;;;;;;;;;;
+143;r Schuh, e;cipő;e Oma, s / e Großmutter, ¨-;nagyanya;s Gemüse;zöldség;Billard spielen;biliárdozni;offen;nyílt / nyitott;;;;;;;;
 144;r Rock, ¨-e;szoknya;e Vermutung, en;sejtés;s Getränk, e;ital;duschen;zuhanyozni;;;;;;;;;;
 145;r Hut, ¨-e;kalap;e Digitalkamera, s;digitális kamera;s Dessert, s;desszert;gehören;vki/vmi - hoz tartozni;;;;;;;;;;
 146;r Schal, s;sál;e Wohngemeinschaft, en / e WG, s;közös lakás;r/s Ketchup, s;ketchup;mitarbeiten;együtt dolgozni;;;;;;;;;;
@@ -188,8 +188,8 @@
 187;r Hunger;éhség;e Ordnung, en;rend;s Training, s;edzés;träumen;álmodni;;;;;;;;;;
 188;r Kühlschrank, ¨-e;hűtőszekrény;e Rose, n;rózsa;s Viertel, ~;negyed;vor|haben;tervezni / szándékozni;;;;;;;;;;
 189;r Fisch, e ;hal;e See, n;tenger;s Wochenende, n;hétvége;mit|kommen;együtt menni;;;;;;;;;;
-190;r Käse, ~;sajt;e Nordsee;Északi-tenger;;;pleite sein;csődbe jutva lenni;;;;;;;;;;
-191;r Kuchen, ~;süti;e Verpflegung, en;ellátás;;;vergessen;felejteni / elfelejteni;;;;;;;;;;
+190;r Käse, ~;sajt;e Nordsee;Északi-tenger;s Fenster, ~;ablak;pleite sein;csődbe jutva lenni;;;;;;;;;;
+191;r Kuchen, ~;süti;e Verpflegung, en;ellátás;s Flugzeug, e;repülőgép;vergessen;felejteni / elfelejteni;;;;;;;;;;
 192;r/s Joghurt, s;joghurt;e Anzahl;szám / darabszám / mennyiség / sokaság;;;ein|laden;meghívni;;;;;;;;;;
 193;r Salat, e;saláta;e Abreise, n;indulás / elutazás;;;an|rufen;felhívni;;;;;;;;;;
 194;r Zucker;cukor;e Anreise, n;megérkezés / odautazás;;;weg|gehen;elmenni;;;;;;;;;;
@@ -301,3 +301,4 @@
 300;;;e Schülerband, s;iskolásokból álló együttes;;;;;;;;;;;;;;
 301;;;e Welt, en;világ;;;;;;;;;;;;;;
 302;;;e Zeit, en;idő;;;;;;;;;;;;;;
+303;;;e Tür, en;ablak;;;;;;;;;;;;;;
